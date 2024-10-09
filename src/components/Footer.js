@@ -23,13 +23,13 @@ export default function Footer() {
           onClick={() =>
             window.scrollTo({ top: 0, left: 0, behavior: "smooth" })
           }
-          href="https://www.paypal.com/paypalme/emanueledelmo"
+          href=""
           rel="noopener noreferrer"
           target="_blank"
           className="flex items-center justify-center font-medium text-gray-900 title-font md:justify-start"
         >
           <motion.svg
-            xmlns="http://www.w3.org/2000/svg"
+            xmlns=""
             className="w-5 h-5 text-red-600"
             viewBox="0 0 20 20"
             fill="currentColor"
@@ -44,26 +44,26 @@ export default function Footer() {
           </motion.svg>
         </a>
         <p className="mt-4 text-sm sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0">
-          © 2022{" "}
+          © 2024{" "}
           <a
-            href="https://www.linkedin.com/in/emanueledelmonte/"
+            href=""
             className="ml-1 transition-all hover:text-gray-300"
             rel="noopener noreferrer"
             target="_blank"
           >
-            Emanuele Del Monte
+            Daksh
           </a>
         </p>
         <div className="inline-flex items-center justify-center gap-2 mt-4 sm:ml-auto sm:mt-0 sm:justify-start">
           {/* GITHUB ICON */}
           <a
-            href="https://github.com/xdelmo/react-tailwind-pixabay-gallery"
+            href=""
             rel="noopener noreferrer"
             target="_blank"
           >
             <svg
               fill="currentColor"
-              xmlns="http://www.w3.org/2000/svg"
+              xmlns=""
               className="w-5 h-5 transition-all hover:text-black"
               viewBox="0 0 30 30"
             >
@@ -72,7 +72,7 @@ export default function Footer() {
           </a>
           {/* LINKEDIN ICON */}
           <a
-            href="https://www.linkedin.com/in/emanueledelmonte/"
+            href=""
             rel="noopener noreferrer"
             target="_blank"
           >
